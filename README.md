@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<script src="https://gist.github.com/dumbmoron/ea9b6264e6b6183fd590e322d1afab51.js"></script>
-
 <!--
 **thesinfulchef/thesinfulchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
